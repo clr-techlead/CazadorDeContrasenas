@@ -2,6 +2,9 @@
 
 # 🔑 Cazador de Contraseñas
 
+![Tests](https://github.com/clr-techlead/CazadorDeContrasenas/actions/workflows/tests.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 **Autor:** Camilo Andrés León Rubriche  
 **Institución:** Universidad Nacional Abierta y a Distancia — UNAD  
 **Curso:** Programación — Cuarto semestre  
@@ -53,6 +56,14 @@ CazadorDeContrasenas/
 ├── main.py                   # Punto de entrada
 ├── config.py                 # Constantes de aplicación
 ├── requirements.txt
+├── LICENSE
+├── conftest.py                # Agrega la raíz del proyecto al sys.path para las pruebas
+├── tests/                      # Pruebas unitarias (pytest)
+│   ├── test_contrasena.py
+│   ├── test_cofres.py
+│   └── test_jugador.py
+├── .github/workflows/
+│   └── tests.yml                # CI: corre las pruebas en cada push
 │
 ├── modelos/                  # Capa de dominio (POO pura)
 │   ├── contrasena.py         # Generación + validación
@@ -113,6 +124,17 @@ python main.py
 **Requisitos:**
 - Python 3.10 o superior (probado en 3.12)
 - customtkinter >= 5.2.2
+
+---
+
+## Pruebas
+
+```bash
+pip install -r requirements.txt
+pytest tests/ -v
+```
+
+44 pruebas unitarias cubren la generación/validación de contraseñas (`Contrasena`), la jerarquía y fábrica de cofres (`cofres.py`), y el estado del jugador — puntaje, rachas, logros (`Jugador`). Se ejecutan automáticamente en cada push vía GitHub Actions (ver badge arriba).
 
 ---
 

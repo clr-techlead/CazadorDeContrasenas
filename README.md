@@ -2,6 +2,9 @@
 
 # 🔑 Password Hunter (Cazador de Contraseñas)
 
+![Tests](https://github.com/clr-techlead/CazadorDeContrasenas/actions/workflows/tests.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 **Author:** Camilo Andrés León Rubriche
 **Institution:** Universidad Nacional Abierta y a Distancia — UNAD
 **Course:** Programming — Fourth Semester
@@ -45,6 +48,14 @@ CazadorDeContrasenas/
 ├── main.py              # Entry point
 ├── config.py             # Application constants
 ├── requirements.txt
+├── LICENSE
+├── conftest.py            # Adds project root to sys.path for tests
+├── tests/                  # Unit tests (pytest)
+│   ├── test_contrasena.py
+│   ├── test_cofres.py
+│   └── test_jugador.py
+├── .github/workflows/
+│   └── tests.yml            # CI: runs tests on every push
 │
 ├── modelos/              # Domain layer (pure OOP)
 │   ├── contrasena.py      # Generation + validation
@@ -105,6 +116,15 @@ python main.py
 **Requirements:**
 - Python 3.10 or higher (tested on 3.12)
 - customtkinter >= 5.2.2
+
+## Tests
+
+```bash
+pip install -r requirements.txt
+pytest tests/ -v
+```
+
+44 unit tests cover password generation/validation (`Contrasena`), the chest hierarchy and factory (`cofres.py`), and player state — score, streaks, achievements (`Jugador`). They run automatically on every push via GitHub Actions (see badge above).
 
 ## Game Flow
 
