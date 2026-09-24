@@ -1,0 +1,171 @@
+[
+  {
+    "nombre": "Cazador",
+    "puntaje": 50,
+    "dificultad": "extremo",
+    "id_sesion": "SES-1779674407-6192",
+    "timestamp": "2026-05-24 21:00:13",
+    "estadisticas": {
+      "rondas_jugadas": 1,
+      "rondas_ganadas": 1,
+      "cofres_comunes": 0,
+      "cofres_raros": 1,
+      "cofres_legendarios": 0,
+      "cofres_malditos": 0,
+      "contrasenas_extremas": 1,
+      "racha_sin_maldito": 1,
+      "racha_maxima": 1,
+      "puntaje_total": 50,
+      "puntaje_maximo_ronda": 50
+    },
+    "logros": [
+      "primera_sangre"
+    ],
+    "total_rondas": 1
+  },
+  {
+    "nombre": "Camilo",
+    "puntaje": 125,
+    "dificultad": "normal",
+    "id_sesion": "SES-1779674688-8726",
+    "timestamp": "2026-05-24 21:04:48",
+    "estadisticas": {
+      "rondas_jugadas": 8,
+      "rondas_ganadas": 7,
+      "cofres_comunes": 2,
+      "cofres_raros": 5,
+      "cofres_legendarios": 0,
+      "cofres_malditos": 1,
+      "contrasenas_extremas": 8,
+      "racha_sin_maldito": 3,
+      "racha_maxima": 4,
+      "puntaje_total": 125,
+      "puntaje_maximo_ronda": 25
+    },
+    "logros": [
+      "coleccionista",
+      "primera_sangre"
+    ],
+    "total_rondas": 8
+  },
+  {
+    "nombre": "Cazador",
+    "puntaje": 25,
+    "dificultad": "normal",
+    "id_sesion": "SES-1779674727-9054",
+    "timestamp": "2026-05-24 21:06:30",
+    "estadisticas": {
+      "rondas_jugadas": 1,
+      "rondas_ganadas": 1,
+      "cofres_comunes": 0,
+      "cofres_raros": 1,
+      "cofres_legendarios": 0,
+      "cofres_malditos": 0,
+      "contrasenas_extremas": 1,
+      "racha_sin_maldito": 1,
+      "racha_maxima": 1,
+      "puntaje_total": 25,
+      "puntaje_maximo_ronda": 25
+    },
+    "logros": [
+      "primera_sangre"
+    ],
+    "total_rondas": 1
+  },
+  {
+    "nombre": "dfgh",
+    "puntaje": 0,
+    "dificultad": "difícil",
+    "id_sesion": "SES-1779735821-8496",
+    "timestamp": "2026-05-25 14:03:44",
+    "estadisticas": {
+      "rondas_jugadas": 0,
+      "rondas_ganadas": 0,
+      "cofres_comunes": 0,
+      "cofres_raros": 0,
+      "cofres_legendarios": 0,
+      "cofres_malditos": 0,
+      "contrasenas_extremas": 0,
+      "racha_sin_maldito": 0,
+      "racha_maxima": 0,
+      "puntaje_total": 0,
+      "puntaje_maximo_ronda": 0
+    },
+    "logros": [],
+    "total_rondas": 0
+  },
+  {
+    "nombre": "Camilo21",
+    "puntaje": 50,
+    "dificultad": "extremo",
+    "id_sesion": "SES-1779735830-3112",
+    "timestamp": "2026-05-25 14:08:06",
+    "estadisticas": {
+      "rondas_jugadas": 1,
+      "rondas_ganadas": 1,
+      "cofres_comunes": 0,
+      "cofres_raros": 1,
+      "cofres_legendarios": 0,
+      "cofres_malditos": 0,
+      "contrasenas_extremas": 1,
+      "racha_sin_maldito": 1,
+      "racha_maxima": 1,
+      "puntaje_total": 50,
+      "puntaje_maximo_ronda": 50
+    },
+    "logros": [
+      "primera_sangre"
+    ],
+    "total_rondas": 1
+  },
+  {
+    "nombre": "CamiloLeon",
+    "puntaje": 100,
+    "dificultad": "extremo",
+    "id_sesion": "SES-1779736947-7969",
+    "timestamp": "2026-05-25 14:23:14",
+    "estadisticas": {
+      "rondas_jugadas": 1,
+      "rondas_ganadas": 1,
+      "cofres_comunes": 0,
+      "cofres_raros": 0,
+      "cofres_legendarios": 1,
+      "cofres_malditos": 0,
+      "contrasenas_extremas": 1,
+      "racha_sin_maldito": 1,
+      "racha_maxima": 1,
+      "puntaje_total": 100,
+      "puntaje_maximo_ronda": 100
+    },
+    "logros": [
+      "coleccionista",
+      "primera_sangre",
+      "legendario"
+    ],
+    "total_rondas": 1
+  },
+  {
+    "nombre": "CamiloLeon",
+    "puntaje": 50,
+    "dificultad": "extremo",
+    "id_sesion": "SES-1779737001-4016",
+    "timestamp": "2026-05-25 14:23:28",
+    "estadisticas": {
+      "rondas_jugadas": 1,
+      "rondas_ganadas": 1,
+      "cofres_comunes": 0,
+      "cofres_raros": 1,
+      "cofres_legendarios": 0,
+      "cofres_malditos": 0,
+      "contrasenas_extremas": 1,
+      "racha_sin_maldito": 1,
+      "racha_maxima": 1,
+      "puntaje_total": 50,
+      "puntaje_maximo_ronda": 50
+    },
+    "logros": [
+      "primera_sangre"
+    ],
+    "total_rondas": 1
+  }
+]

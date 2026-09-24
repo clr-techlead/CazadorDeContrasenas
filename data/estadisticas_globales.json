@@ -1,0 +1,21 @@
+{
+  "total_partidas": 7,
+  "total_rondas": 13,
+  "total_puntos": 400,
+  "mejor_puntaje": 125,
+  "mejor_jugador": "Camilo",
+  "cofres_totales": {
+    "común": 0,
+    "raro": 0,
+    "legendario": 0,
+    "maldito": 0
+  },
+  "contrasenas_generadas": 0,
+  "niveles_seguridad": {
+    "Débil": 0,
+    "Moderado": 0,
+    "Fuerte": 0,
+    "Extremo": 0
+  },
+  "logros_desbloqueados": {}
+}

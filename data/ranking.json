@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Camilo",
+    "puntaje": 125,
+    "dificultad": "normal",
+    "timestamp": "2026-05-24 21:04:48"
+  },
+  {
+    "nombre": "CamiloLeon",
+    "puntaje": 100,
+    "dificultad": "extremo",
+    "timestamp": "2026-05-25 14:23:14"
+  },
+  {
+    "nombre": "Cazador",
+    "puntaje": 50,
+    "dificultad": "extremo",
+    "timestamp": "2026-05-24 21:00:13"
+  },
+  {
+    "nombre": "Camilo21",
+    "puntaje": 50,
+    "dificultad": "extremo",
+    "timestamp": "2026-05-25 14:08:06"
+  },
+  {
+    "nombre": "dfgh",
+    "puntaje": 0,
+    "dificultad": "difícil",
+    "timestamp": "2026-05-25 14:03:44"
+  }
+]
